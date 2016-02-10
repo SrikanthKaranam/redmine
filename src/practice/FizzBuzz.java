@@ -14,6 +14,6 @@ public class FizzBuzz {
         System.out.println(i);
       }
     }
-    system.out.println("srikanth");
+     System.out.println("Rama");
   }
 }
